@@ -36,6 +36,14 @@ yarn-error.log*
 # vercel
 .vercel
 
+# netlify
+.netlify
+
+# zip / temp
+*.zip
+open_browser.py
+copy-banner.ps1
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
